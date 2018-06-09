@@ -36,4 +36,13 @@ $lang['Select a birthdate'] = 'Выберите дату рождения';
 $lang['Select a tag'] = 'Выберите тэг';
 $lang['Who?'] = 'Кто?';
 $lang['on this photo %s is %s old'] = 'Возраст %s на это фотографии - %s';
+$lang['%d day1'] = '%d день';
+$lang['%d day234'] = '%d дня';
+$lang['%d day56789'] = '%d дней';
+$lang['%d month1'] = '%d месяц';
+$lang['%d month234'] = '%d месяца';
+$lang['%d month56789'] = '%d месяцев';
+$lang['%d year1'] = '%d год';
+$lang['%d year234'] = '%d года';
+$lang['%d year56789'] = '%d лет';
 ?>
